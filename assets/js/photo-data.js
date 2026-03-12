@@ -87,7 +87,7 @@ const photoList = [
     { image: `./assets/images/85.jpeg`, note: `` },
     { image: `./assets/images/86.jpeg`, note: `` },
     { image: `./assets/images/87.jpeg`, note: `` },
-    { image: `./assets/images/88.jpeg`, note: `` },
+    { image: `./assets/images/88.jpeg`, note: `Thầy và Chánh Tâm Đà Nẵng` },
     { image: `./assets/images/89.jpeg`, note: `` },
     { image: `./assets/images/90.jpeg`, note: `` },
     { image: `./assets/images/91.jpeg`, note: `` },

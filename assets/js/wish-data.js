@@ -5,7 +5,7 @@ const wishList = [
         <br>🪷 Biết ơn Thầy của chúng con.`,
     },
     {
-        name: `Minh Ý`,
+        name: `Minh Ý - Kim Cương`,
         content: `Đã gần 14 năm trôi qua kể từ ngày vợ chồng con có duyên được Thầy nâng đỡ và chỉ dẫn. Từ những bước đi đầu tiên còn đầy vụng về, Thầy đã kiên nhẫn dìu dắt chúng con trong đời sống thực tập tu học theo hạnh nguyện, giúp chúng con biết quay về, biết sống chậm lại, biết thương nhau và gìn giữ hạnh phúc gia đình.
         <br>Nhờ ân Thầy, đến hôm nay vợ chồng con không chỉ xây dựng được một mái ấm bình an, mà còn có phúc được nuôi dưỡng ba cháu nhỏ trong tinh thần hiểu và thương. Mỗi nụ cười của các con là sự tiếp nối đẹp đẽ nhất từ Thầy trong cuộc đời này.
         <br>Khoảnh khắc cả gia đình được đứng bên Thầy giữa đất trời xanh mát và trong lành, chúng con càng cảm nhận sâu sắc hơn món quà mà Thầy đã trao: đó là hướng đi, là cách sống, là hạt giống bình an mà chúng con nguyện tiếp tục chăm sóc và chuyển trao.

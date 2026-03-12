@@ -97,6 +97,12 @@ const wishList = [
         <br>Cám ơn Thầy luôn là bến đỗ của Chánh Tâm ạ.`,
     },
     {
+        name: `Hoài Thư`,
+        content: `Dạ Nam Mô A Di Đà Phật,
+        <br>con muốn gửi đến  Thầy thiệt nhiều lòng biết ơn và trân quý vì Thầy đã là một người Thầy luôn ân cần quan tâm, chăm sóc các anh chị em Chánh Tâm chúng con, coi chúng con như con cháu của mình. Con biết ơn từng ngày được đến chùa, được gặp Thầy và các anh chị em Chánh Tâm. Cảm ơn Thầy Nhật Đạo đã luôn hiện diện với chúng con. Trong con, Thầy luôn là một mặt trời ấm áp soi đường cho chúng con trên hành trình tu học và trưởng thành.
+        <br>Nhân ngày tiếp nối của Thầy, con mong Thầy luôn bình anh và có thiệt nhiều sức khoẻ 🫶`,
+    },
+    {
         name: `Thùy Trang - Tương Sinh`,
         content: `Thầy trong con là chỗ dựa tinh thần vững chắc, là nơi mà con luôn hướng về.`,
     },

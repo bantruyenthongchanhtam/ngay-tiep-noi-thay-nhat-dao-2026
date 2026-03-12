@@ -28,6 +28,7 @@ const photoList = [
     { image: `./assets/images/36.jpg`, note: `Thầy và bạn Quang Dũng` },
     { image: `./assets/images/32.jpg`, note: `Thầy và bạn Xuân Hiếu` },
     { image: `./assets/images/45.jpg`, note: `Thầy và bạn Yến Ngọc` },
+    { image: `./assets/images/37.jpg`, note: `Thầy và bạn Thu Hương` },
     { image: `./assets/images/48.jpg`, note: `Thầy và bạn Hoài Thư` },
 
     { image: `./assets/images/11.jpeg`, note: `` },

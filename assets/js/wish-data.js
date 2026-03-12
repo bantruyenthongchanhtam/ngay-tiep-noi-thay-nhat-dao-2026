@@ -94,11 +94,17 @@ const wishList = [
         <br>Dạ Thảo - Mừng ngày tiếp nối Thầy Nhật Đạo`,
     },
     {
-        name: `Yến Ngọc `,
+        name: `Yến Ngọc`,
         content: `Nam Mô Bổn Sư Thích Ca Mâu Ni Phật. 
         <br>ính bạch Thầy, Con là Yến Ngọc - Một đứa trẻ tập tễnh bước, tập tễnh đi, tập tễnh nhìn và tập tễnh thấu trên con đường tìm hiểu và tu học Phật Pháp. Có lẽ, đứa trẻ ấy sẽ không thể nào lớn được nếu thiếu được sự hướng dẫn của một người cha tận tâm, tận lực. Và với con, người cha ấy chính là Thầy.
         <br>Trong con, và có lẽ là với cả Chánh Tâm, Thầy như ngọn đèn đăng được thắp lên mỗi dịp phóng sanh, ngọn đăng đó luôn rọi sáng, dẫn dắt, rẽ lỗi cho chúng con tìm được đúng đường, giữ được đúng tâm, gieo được hạt giống lành. Con vẫn luôn ghi nhớ những lời căn dặn, dặn dò của Thầy, từ sự hít thở sâu, tu tập trong chánh niệm, đến sự trao yêu thương trong những chuyện thiện nguyện gần xa. Những bài học ấy, giúp con thêm tin, thêm yêu cuộc sống, giúp con biết trân trọng những điều tưởng chừng bé nhỏ, giúp con an lạc trong cuộc sống có đôi phần bộn bề này.
         <br>13/3 ngày tiếp nối của Thầy, con mong rằng thầy sẽ luôn an lành và vững tâm trên con đường tu học. Mong rằng, người Thầy của chúng con, ngọn đèn đăng rọi đường của Chánh Tâm sẽ luôn cháy mãi và sáng mãi, dẫn lối chúng con bước đi trong Chánh Pháp.`,
+    },
+    {
+        name: `Thu Hương`,
+        content: `Nam Mô A Di Đà Phật, dạ thưa thầy con là Hương, đây có lẽ là năm đầu tiên con được trực tiếp gửi đến thầy đôi lời nhân ngày tiếp nối. Con rất biết ơn cuộc đời vì đã có nhân duyên được gặp Thầy, được nghe những lời dạy nhẹ nhàng nhưng sâu sắc của Thầy. Những điều Thầy chia sẻ đôi khi rất giản dị, nhưng lại giúp con hiểu hơn về cách sống tốt và sống tử tế.
+        <br>Khoảng thời gian đầu khi đến chùa, lúc chỉ mới đứng từ xa nhìn thầy với lòng đầy tôn kính và ngưỡng mộ, một thoáng chốc mô đó con đã nghĩ thầy chắc sẽ rất nghiêm khắc và khó gần, nhưng mọi suy nghĩ trong con về thầy đều đã bị phá vỡ một khoảng thời gian sau đó, thầy ân cần chỉ dạy cho tụi con nhiều điều thiếu sót, chỉ cho tụi con biết cần phát huy cái gì và khắc phục điều chi.
+        <br>Với con thầy như là một chốn bình yên để trở về, gần gũi với anh chị em tụi con như những người thân ruột thịt trong gia đình, mong rằng thầy sẽ luôn thật nhiều sức khỏe để tiếp tục đồng hành và chỉ dạy chúng con trên con đường tu tập phía trước, để anh chị em tụi con còn được nối dài nối dài cánh tay này mãi.`,
     },
     {
         name: `Đức Định`,
@@ -115,7 +121,7 @@ const wishList = [
         <br>Và con viết những dòng ni không chỉ vì Thầy là người đã dẫn dắt Chánh Tâm, mà vì Thầy là Thầy của con, là người mà con hết sức kính trọng và quý mến. Được Thầy chỉ dạy chính là phước duyên lớn của con. Con thật sự biết ơn Thầy. Con kính mừng ngày tiếp nối của Thầy, con chúc Thầy luôn mạnh khỏe, luôn tràn đầy năng lượng để có thể gieo thêm nhiều hạt giống bình an cho đời.`,
     },
     {
-        name: `Boom Mỹ`,
+        name: `Boom`,
         content: `Chúc Thầy có thật nhiều sức khoẻ, an yên trong cuộc sống, tiếp tục trên con đường tu đạo và dẫn dắt chúng con làm nhiều việc thiện`,
     },
     {

@@ -42,9 +42,18 @@ const wishList = [
         name: `Thuận Hóa`,
         content: `Con kính chúc thầy một ngày kết nối thật ấm áp và trọn vẹn.
         <br>Mong rằng từng cuộc gặp gỡ, từng lời chia sẻ của Thầy với Chánh tâm đều lan tỏa sự bình an, yêu thương và hiểu biết.
-        <br>Nguyện cho năng lượng an lành của Thầy tiếp tục soi sáng và kết nối nhiều trái tim lại với nhau.
-        <br>
-        <br>Chúc thầy luôn mạnh khỏe, an nhiên và vững bước trên con đường phụng sự. 🙏🌿`,
+        <br>Nguyện cho năng lượng an lành của thầy tiếp tục soi sáng và kết nối nhiều trái tim lại với nhau.`,
+    },
+    {
+        name: `MyMy Noo`,
+        content: `Thầy trong con là ngọn đèn soi sáng dẫn lối con đi trên mọi nẻo đường, dù cho con đang ở đâu trên thế giới này thì thầy luôn là điểm tựa để con quay về nương tựa.
+        <br>Con chúc thầy có một ngày Pháp Sang thật ấm áp và hạnh phúc bên Chánh Tâm và bên quý Thầy.`,
+    },
+    {
+        name: `Cẩm Nhi`,
+        content: `Nam Mô A Di Đà Phật
+        <br>Kính bạch Thầy, Nhân một ngày đặc biệt 13/03 - ngày tiếp nối của Thầy, con xin được thành kính dâng lên Thầy lòng tri ân sâu sắc. Con biết ơn Thầy vì luôn tận tâm dìu dắt và soi sáng cho chúng con trên con đường học đạo. Đối với con, Thầy như người Cha hiền, luôn bao dung, thương yêu và nhẹ nhàng chỉ dạy để chúng con từng bước trưởng thành hơn trong Chánh Pháp. Con cảm thấy thật may mắn và hạnh phúc khi được là học trò của Thầy, được lắng nghe những lời chỉ dạy quý báu, rồi còn được đồng hành cùng Thầy và Chánh Tâm trong những hành trình ý nghĩa trên con đường tu học.
+        <br>Con kính chúc Thầy luôn thân tâm an lạc, pháp thể khinh an, tuệ đăng thường chiếu, Phật đạo viên thành, và mãi là bóng cây mát lành để chúng con có thể an yên mỗi khi trở về ngôi nhà Chánh Tâm ạ. 🙏`,
     },
     {
         name: `Nhật Uyên`,
@@ -66,9 +75,10 @@ const wishList = [
     },
     {
         name: `Xuân Hiếu`,
-        content: `Thầy trong con là một người lặng lẽ gieo những hạt giống lành. Trong những ngày được đi cùng Thầy trên con đường tu học, và là một phần của học chúng Chánh Tâm, con cảm nhận được sự kiên nhẫn, nhẹ nhàng và tình thương rất lớn Thầy dành cho tụi con. Có những lúc tụi con còn vụng về, còn nhiều điều chưa hiểu thấu, nhưng Thầy vẫn ở đó, âm thầm chỉ dạy, nhắc nhở và nâng đỡ bằng tất cả sự bao dung.
-        <br>Nhờ có Thầy, tụi con học được cách sống chậm lại một chút, nhìn sâu hơn một chút, và biết thương nhau nhiều hơn một chút. Những lời dạy của Thầy giống như dòng suối mát giữa những ngày nắng gắt, giúp lòng tụi con dịu lại và biết tìm đường quay về nương tựa chính mình.
-        <br>Với con, được làm học trò của Thầy đã là một nhân duyên rất lành, điều kỳ diệu nhất với con có lẽ là nhân duyên ngày 13/3. Con thấy mình thực sự may mắn và hạnh phúc khi được cùng Thầy chung ngày tiếp nối. Con xin gửi đến Thầy lòng biết ơn sâu sắc và lời chúc bình an nhất. Mong Thầy luôn dồi dào sức khỏe, luôn tràn đầy năng lượng để tiếp tục tưới hoa cho tụi con và cho thật nhiều người trên hành trình hiểu và thương.`,
+        content: `Thầy trong con là ngôi sao sáng dẫn lối con đi, soi sáng những bước chân còn bỡ ngỡ trên con đường tu tập và trưởng thành.
+        <br>Dưới ánh sáng của thầy, con học được cách sống tốt hơn, biết yêu thương, biết cố gắng và không ngừng vươn lên.
+        <br>Con rất biết ơn khi con có thể nói rằng Thầy là Thầy của chúng con.
+        <br>13/3-Ngày kết nối của Thầy Nhật Đạo, con chúc Thầy có thật nhiều sức khoẻ, vui vẻ để có thể gieo thêm nhiều hạt giống lành ạa`,
     },
     {
         name: `Dạ Thảo`,
@@ -89,6 +99,11 @@ const wishList = [
         <br>ính bạch Thầy, Con là Yến Ngọc - Một đứa trẻ tập tễnh bước, tập tễnh đi, tập tễnh nhìn và tập tễnh thấu trên con đường tìm hiểu và tu học Phật Pháp. Có lẽ, đứa trẻ ấy sẽ không thể nào lớn được nếu thiếu được sự hướng dẫn của một người cha tận tâm, tận lực. Và với con, người cha ấy chính là Thầy.
         <br>Trong con, và có lẽ là với cả Chánh Tâm, Thầy như ngọn đèn đăng được thắp lên mỗi dịp phóng sanh, ngọn đăng đó luôn rọi sáng, dẫn dắt, rẽ lỗi cho chúng con tìm được đúng đường, giữ được đúng tâm, gieo được hạt giống lành. Con vẫn luôn ghi nhớ những lời căn dặn, dặn dò của Thầy, từ sự hít thở sâu, tu tập trong chánh niệm, đến sự trao yêu thương trong những chuyện thiện nguyện gần xa. Những bài học ấy, giúp con thêm tin, thêm yêu cuộc sống, giúp con biết trân trọng những điều tưởng chừng bé nhỏ, giúp con an lạc trong cuộc sống có đôi phần bộn bề này.
         <br>13/3 ngày tiếp nối của Thầy, con mong rằng thầy sẽ luôn an lành và vững tâm trên con đường tu học. Mong rằng, người Thầy của chúng con, ngọn đèn đăng rọi đường của Chánh Tâm sẽ luôn cháy mãi và sáng mãi, dẫn lối chúng con bước đi trong Chánh Pháp.`,
+    },
+    {
+        name: `Đức Định`,
+        content: `Nhân Ngày Tiếp Nối của Thầy, con xin được gửi đến Thầy lời tri ân chân thành. Thầy không chỉ là người hướng dẫn chúng con trong tu học mà còn là người luôn nhẹ nhàng nhắc nhở, giúp chúng con nhìn lại mình mỗi ngày. Những điều Thầy trao truyền tuy giản dị nhưng rất quý giá đối với chúng con.
+        <br>Kính chúc Thầy luôn mạnh khỏe, an lạc để tiếp tục nâng đỡ và soi sáng cho chúng con trên con đường phía trước`,
     },
     {
         name: `Đức Duy`,
@@ -117,6 +132,12 @@ const wishList = [
         content: `Dạ Nam Mô A Di Đà Phật,
         <br>con muốn gửi đến  Thầy thiệt nhiều lòng biết ơn và trân quý vì Thầy đã là một người Thầy luôn ân cần quan tâm, chăm sóc các anh chị em Chánh Tâm chúng con, coi chúng con như con cháu của mình. Con biết ơn từng ngày được đến chùa, được gặp Thầy và các anh chị em Chánh Tâm. Cảm ơn Thầy Nhật Đạo đã luôn hiện diện với chúng con. Trong con, Thầy luôn là một mặt trời ấm áp soi đường cho chúng con trên hành trình tu học và trưởng thành.
         <br>Nhân ngày tiếp nối của Thầy, con mong Thầy luôn bình anh và có thiệt nhiều sức khoẻ 🫶`,
+    },
+    {
+        name: `Mai Thị Thanh Thảo`,
+        content: `Thầy trong con là một người lặng lẽ gieo những hạt giống lành. Trong những ngày được đi cùng Thầy trên con đường tu học, và là một phần của học chúng Chánh Tâm, con cảm nhận được sự kiên nhẫn, nhẹ nhàng và tình thương rất lớn Thầy dành cho tụi con. Có những lúc tụi con còn vụng về, còn nhiều điều chưa hiểu thấu, nhưng Thầy vẫn ở đó, âm thầm chỉ dạy, nhắc nhở và nâng đỡ bằng tất cả sự bao dung.
+        <br>Nhờ có Thầy, tụi con học được cách sống chậm lại một chút, nhìn sâu hơn một chút, và biết thương nhau nhiều hơn một chút. Những lời dạy của Thầy giống như dòng suối mát giữa những ngày nắng gắt, giúp lòng tụi con dịu lại và biết tìm đường quay về nương tựa chính mình.
+        <br>Với con, được làm học trò của Thầy đã là một nhân duyên rất lành, điều kỳ diệu nhất với con có lẽ là nhân duyên ngày 13/3. Con thấy mình thực sự may mắn và hạnh phúc khi được cùng Thầy chung ngày tiếp nối. Con xin gửi đến Thầy lòng biết ơn sâu sắc và lời chúc bình an nhất. Mong Thầy luôn dồi dào sức khỏe, luôn tràn đầy năng lượng để tiếp tục tưới hoa cho tụi con và cho thật nhiều người trên hành trình hiểu và thương.`,
     },
     {
         name: `Thùy Trang - Tương Sinh`,

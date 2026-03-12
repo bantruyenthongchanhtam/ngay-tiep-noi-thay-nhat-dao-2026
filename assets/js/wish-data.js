@@ -39,6 +39,14 @@ const wishList = [
         content: `Thầy trong chúng con là cầu nối, là chỗ dựa, là người dẫn dắt chúng con trên con đường tâm linh. Chúng con có được gia đình nhỏ như hôm nay là nhờ sự tạo duyên của Thầy. Chúng con vô cùng biết ơn và cảm thấy may mắn khi gặp được nhau, gặp được Thầy, được Tam Bảo che chở để vững tin trên con đường tu học cũng như trên con đường đời. Chúng con mong Thầy luôn khoẻ mạnh để dẫn dắt tiếp các thế hệ trong chánh tâm, cùng nhau chung tay tạo ra một môi trường tâm linh vững mạnh, an toàn cho các bạn trẻ có điểm tựa quay về trong đời sống nhiều biến động như ngày hôm nay. Kính chúc Thầy của chúng con mỗi ngày đều an lạc, mạnh khoẻ, năng lượng dồi dào và đạt được thành tựu như Thầy mong muốn.`,
     },
     {
+        name: `Thuận Hóa`,
+        content: `Con kính chúc thầy một ngày kết nối thật ấm áp và trọn vẹn.
+        <br>Mong rằng từng cuộc gặp gỡ, từng lời chia sẻ của Thầy với Chánh tâm đều lan tỏa sự bình an, yêu thương và hiểu biết.
+        <br>Nguyện cho năng lượng an lành của Thầy tiếp tục soi sáng và kết nối nhiều trái tim lại với nhau.
+        <br>
+        <br>Chúc thầy luôn mạnh khỏe, an nhiên và vững bước trên con đường phụng sự. 🙏🌿`,
+    },
+    {
         name: `Nhật Uyên`,
         content: ``,
     },
@@ -63,7 +71,7 @@ const wishList = [
         <br>Với con, được làm học trò của Thầy đã là một nhân duyên rất lành, điều kỳ diệu nhất với con có lẽ là nhân duyên ngày 13/3. Con thấy mình thực sự may mắn và hạnh phúc khi được cùng Thầy chung ngày tiếp nối. Con xin gửi đến Thầy lòng biết ơn sâu sắc và lời chúc bình an nhất. Mong Thầy luôn dồi dào sức khỏe, luôn tràn đầy năng lượng để tiếp tục tưới hoa cho tụi con và cho thật nhiều người trên hành trình hiểu và thương.`,
     },
     {
-        name: `Dạ Thảo (Nai)`,
+        name: `Dạ Thảo`,
         content: `🌿 Thầy trong con là một sự hiện diện rất lặng. Không ồn ào, không rực rỡ, nhưng lại ở đó rất sâu. Có những lúc con nghĩ, tụi con may mắn lắm khi có duyên được gặp và được Thầy dẫn dắt trên hành trình này. Không phải ai trong đời cũng có cơ hội gặp một người Thầy kiên nhẫn lắng nghe, nhẹ nhàng nhắc nhở, và thương tụi con theo cách rất thầm lặng như vậy. Và rồi  con mới nhận ra rằng có những điều Thầy trao cho tụi con không nằm trong lời nói, mà nằm trong chính cách Thầy sống.
         <br>Thầy không chỉ dạy tụi con bằng những buổi chia sẻ, mà còn dạy bằng từng bước chân rất chậm, bằng nụ cười và bằng ánh mắt luôn đầy sự lắng nghe. Nhiều lúc con nghĩ, có lẽ tụi con còn vụng về lắm, còn nhiều điều chưa hiểu hết. Nhưng Thầy vẫn kiên nhẫn ở đó, vẫn nhẹ nhàng nhắc nhở, như thể chỉ cần tụi con quay về một chút thôi là đã đủ rồi
         Có những ngày con thấy mình không ổn, thấy lòng mình nhiều suy nghĩ, con lại nhớ đến hình ảnh Thầy rất bình yên. Không phải vì Thầy nói điều gì lớn lao, mà chỉ vì cách Thầy có mặt - rất yên, rất vững. Và kỳ lạ là chỉ cần như vậy thôi, lòng con cũng tự nhiên dịu lại.
@@ -92,9 +100,17 @@ const wishList = [
         <br>Và con viết những dòng ni không chỉ vì Thầy là người đã dẫn dắt Chánh Tâm, mà vì Thầy là Thầy của con, là người mà con hết sức kính trọng và quý mến. Được Thầy chỉ dạy chính là phước duyên lớn của con. Con thật sự biết ơn Thầy. Con kính mừng ngày tiếp nối của Thầy, con chúc Thầy luôn mạnh khỏe, luôn tràn đầy năng lượng để có thể gieo thêm nhiều hạt giống bình an cho đời.`,
     },
     {
+        name: `Boom Mỹ`,
+        content: `Chúc Thầy có thật nhiều sức khoẻ, an yên trong cuộc sống, tiếp tục trên con đường tu đạo và dẫn dắt chúng con làm nhiều việc thiện`,
+    },
+    {
         name: `Hằng Trần`,
         content: `Mừng ngày tiếp nối của Thầy, chúc thầy luôn vui khoẻ, hạnh phúc, tinh tấn tu hành và hoàn thành mọi nguyện vọng ở tuổi mới ạ 🍀
         <br>Cám ơn Thầy luôn là bến đỗ của Chánh Tâm ạ.`,
+    },
+    {
+        name: `Thanh Hương (Na)`,
+        content: `Thầy trong con là một cây đa 🌿`,
     },
     {
         name: `Hoài Thư`,

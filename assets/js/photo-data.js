@@ -16,6 +16,7 @@ const photoList = [
     { image: `./assets/images/10.jpg`, note: `Thầy chụp cùng 2 lớp trưởng Chu Niên 17` },
     { image: `./assets/images/15.jpg`, note: `Ngày tiếp nối Thầy 2025` },
     { image: `./assets/images/44.jpg`, note: `Thầy và gia đình Đậu Khoai` },
+    { image: `./assets/images/31.jpg`, note: `Thầy và bạn Thuận Hóa` },
     { image: `./assets/images/40.JPEG`, note: `Thầy và bạn Tùng` },
     { image: `./assets/images/30.jpg`, note: `Thầy và bạn Huy Lê` },
     { image: `./assets/images/29.jpg`, note: `Thầy và bạn Xuân Diệu` },

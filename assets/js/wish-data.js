@@ -40,7 +40,7 @@ const wishList = [
     },
     {
         name: `Nhật Uyên`,
-        content: `Kính chúc Thầy ngày tiếp nối an lạc, vạn sự cát tường. Cảm ơn Thầy đã luôn dẫn dắt chúng con trên con đường đạo hạnh.`,
+        content: ``,
     },
     {
         name: `Thanh Tùng`,
@@ -55,6 +55,12 @@ const wishList = [
         content: `Ngày 13/3 - là ngày Tiếp Nối của Thầy, con cảm thấy may mắn và biết ơn vô cùng vì được là 1 phần hiện diện trong ngày đặc biệt này. Nhờ có Thầy, nhờ có Chánh Tâm mà con được sống ý nghĩa hơn, được phụng sự, được học hỏi và biết trân trọng từng khoảnh khắc, từng ngày mà con đi qua. Con biết để có một Chánh Tâm như ngày hôm nay không hề là điều dễ dàng. Và qua thật nhiều thế hệ anh chị em tiếp nối nhau, đến bây giờ, chúng con vẫn được có mặt, vẫn được là một phần của Chánh Tâm và được là học trò của Thầy Nhật Đạo. Những lời Thầy dạy giúp tâm con được an hơn, mỗi bước chân con đi được vững chãi hơn, con học được cách quay về với chính mình, sống chậm lại và nuôi dưỡng những điều thiện lành trong tâm.
         <br>Nhân ngày Tiếp Nối của Thầy, con xin chúc Thầy luôn được bình an, có thật nhiều sức khoẻ, thân tâm an lạc, trí tuệ sáng ngời để vững bước trên con đường hoằng pháp và dìu dắt chúng con tu học. 
         <br>Mỹ Chân - Mừng ngày Tiếp Nối Thầy Nhật Đạo🌷`,
+    },
+    {
+        name: `Xuân Hiếu`,
+        content: `Thầy trong con là một người lặng lẽ gieo những hạt giống lành. Trong những ngày được đi cùng Thầy trên con đường tu học, và là một phần của học chúng Chánh Tâm, con cảm nhận được sự kiên nhẫn, nhẹ nhàng và tình thương rất lớn Thầy dành cho tụi con. Có những lúc tụi con còn vụng về, còn nhiều điều chưa hiểu thấu, nhưng Thầy vẫn ở đó, âm thầm chỉ dạy, nhắc nhở và nâng đỡ bằng tất cả sự bao dung.
+        <br>Nhờ có Thầy, tụi con học được cách sống chậm lại một chút, nhìn sâu hơn một chút, và biết thương nhau nhiều hơn một chút. Những lời dạy của Thầy giống như dòng suối mát giữa những ngày nắng gắt, giúp lòng tụi con dịu lại và biết tìm đường quay về nương tựa chính mình.
+        <br>Với con, được làm học trò của Thầy đã là một nhân duyên rất lành, điều kỳ diệu nhất với con có lẽ là nhân duyên ngày 13/3. Con thấy mình thực sự may mắn và hạnh phúc khi được cùng Thầy chung ngày tiếp nối. Con xin gửi đến Thầy lòng biết ơn sâu sắc và lời chúc bình an nhất. Mong Thầy luôn dồi dào sức khỏe, luôn tràn đầy năng lượng để tiếp tục tưới hoa cho tụi con và cho thật nhiều người trên hành trình hiểu và thương.`,
     },
     {
         name: `Dạ Thảo (Nai)`,
@@ -84,6 +90,11 @@ const wishList = [
         <br>Thật ra thì năm mô đến ngày này thì con cũng được thông báo và biết đến, nhưng năm nay lại có chút đặc biệt hơn. Con cảm nhận được tình thầy trò sâu hơn, gắn bó hơn, và con thật sự thấy vui vì điều ni. Khác với mọi năm con chỉ biết khi được thông báo, thì chắc là từ chừ con sẽ ghi nhớ ngày ni, ngày 13 tháng 3 là ngày tiếp nối của Thầy Nhật Đạo.
         <br>Con thật sự biết ơn những nhân duyên đã đưa con đến với chùa mình, và trên hết là con thật sự biết ơn Thầy. Thầy đã dìu dắt Chánh Tâm đi từ những ngày đầu tiên, một hành trình rất dài mà con đã được nghe qua những lời kể của Thầy. Con là người đi sau, khi Chánh Tâm đã ổn định, nên con có thể không hiểu hết được những khó khăn của Thầy trong thời gian trước. Giờ Chánh Tâm đã ngày càng vững mạnh hơn, con xin tri ân Thầy sâu sắc.
         <br>Và con viết những dòng ni không chỉ vì Thầy là người đã dẫn dắt Chánh Tâm, mà vì Thầy là Thầy của con, là người mà con hết sức kính trọng và quý mến. Được Thầy chỉ dạy chính là phước duyên lớn của con. Con thật sự biết ơn Thầy. Con kính mừng ngày tiếp nối của Thầy, con chúc Thầy luôn mạnh khỏe, luôn tràn đầy năng lượng để có thể gieo thêm nhiều hạt giống bình an cho đời.`,
+    },
+    {
+        name: `Hằng Trần`,
+        content: `Mừng ngày tiếp nối của Thầy, chúc thầy luôn vui khoẻ, hạnh phúc, tinh tấn tu hành và hoàn thành mọi nguyện vọng ở tuổi mới ạ 🍀
+        <br>Cám ơn Thầy luôn là bến đỗ của Chánh Tâm ạ.`,
     },
     {
         name: `Thùy Trang - Tương Sinh`,

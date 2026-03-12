@@ -45,6 +45,16 @@ const wishList = [
         <br>Nguyện cho năng lượng an lành của thầy tiếp tục soi sáng và kết nối nhiều trái tim lại với nhau.`,
     },
     {
+        name: `Bích Tiên`,
+        content: `Dạ Thầy ơi,
+        <br>Mỗi lần tiếng kêu này xuất hiện là bao nhiêu sự biết ơn trong con lại trào dâng. Vì từ khi con đi chùa cho đến nay thì có lẽ Thầy là người Thầy mà con kêu nhiều nhất. Và hay thật, lần nào cũng được Thầy đáp lời, dù là bất kể chuyện gì và ở đâu. Những lúc đó, con biết trong con luôn có một ngừoi Thầy mà không bao giờ để con bị bỏ lại một mình.
+        <br>Năm nào đến Ngày tiếp nối của Thầy con cũng có cơ hội nói đôi lời tri ân với Thầy. Nhưng năm nay con thấy đặc biệt hơn mọi năm. Vì trong lúc viết những dòng này, về "Thầy trong con là ai" thì con đã có cơ hội chậm lại rất nhiều nhịp, tua lại bao nhiêu hành trình mà con được Thầy dẫn dắt, thì câu trả lời của con là "Thầy trong con là một người Thầy". Một người Thầy thật sự, Người đã chỉ dạy, nâng đỡ, thương yêu, đồng hành cùng con trên con đường tu học. Một người thầy không chỉ vì Thầy là Thầy ở trong chùa nên con đến chùa thì sẽ là học trò của Thầy. Mà là một người Thầy con muốn được đi theo để cầu học.
+        <br>Thầy là người đã luôn tạo cho con cơ hội để đi đến những chân trời mới, cho con được nhìn ngắm thế giới rộng lớn hơn. Thầy cũng cho con mở rộng tầm mắt về tình yêu thương bền bỉ của mình qua những điều Thầy đã cho đi. Nếu không phải là học trò của Thầy, có thể không biết đến bao giờ con mới được nuôi dưỡng hạnh từ bi của mình một cách đều đặn như vậy. 
+        Đối với con Thầy là một Người Thầy siêu bản lĩnh, lúc cần ra mặt để bảo vệ Thầy sẽ đi trước để chắn hết đầu sóng ngọn gió. Nhưng lúc cần lùi lại phía sau để nâng đỡ thì Thầy bước chậm lại để đẩy con đi lên phía trước. Những lúc này con thấy an tâm vô cùng tận luôn. Vì dù con đi nhanh hay chậm vẫn luôn có người ở đó dõi theo hành trình của con và sẵn lòng giúp đỡ cho con khi con cần. Cảm ơn Thầy vì đã là Thầy của con, luôn chăm lo cho con từ sức khoẻ, công việc đến cả gia đình tương lai của con nữa (con hi vọng con cũng được trộm vía như Thầy đã lo cho chị Cát trước đây, hí hí🤭).
+        <br>Con thật sự trân quý, vì trên hành trình con trưởng thành và sửa mình luôn có Thầy tận tình, kiên nhẫn và hết lòng chỉ dạy. 
+        <br>Thương chúc Thầy một mùa tiếp nối tròn đầy và an vui ạ.`,
+    },
+    {
         name: `MyMy Noo`,
         content: `Thầy trong con là ngọn đèn soi sáng dẫn lối con đi trên mọi nẻo đường, dù cho con đang ở đâu trên thế giới này thì thầy luôn là điểm tựa để con quay về nương tựa.
         <br>Con chúc thầy có một ngày Pháp Sang thật ấm áp và hạnh phúc bên Chánh Tâm và bên quý Thầy.`,

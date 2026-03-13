@@ -260,6 +260,10 @@
             box-shadow: 0 5px 15px rgba(0,0,0,0.05);
             border: 1px solid #fde68a;
         }
+
+        .step-title {
+            color: #228B22;
+        }
     </style>
 </head>
 <body>
@@ -284,8 +288,9 @@
 
     <!-- STEP 2: Thầy trong chúng con (Gallery) -->
     <section id="step-2" class="step">
-        <h2 class="text-3xl font-heading text-orange-800 mb-6 uppercase tracking-wider">Đầu tiên mời Thầy cùng xem lại những kỉ niệm này<br>
-            để định hình rõ hơn về Thầy trong chúng con nhé!</h2>
+        <h2 class="text-3xl font-heading text-orange-800 mb-6 uppercase tracking-wider">Đầu tiên mời Thầy cùng xem lại 
+            <span class="step-title">những kỉ niệm</span> này
+            <br>để định hình rõ hơn về Thầy trong chúng con nhé!</h2>
         <div class="gallery-grid" id="gallery-grid"></div>
         <button class="btn-orange" onclick="goToStep(3, 'Thầy là Người Đệ Tử thân cận của Ôn')">Tiếp tục</button>
     </section>
@@ -318,11 +323,8 @@
         </div>
                 <div class="on-note-box">
             <p class="text-orange-900 leading-relaxed italic mb-1">
-                "Cứ mải miết với từng bước chân nhỏ, ngoảnh nhìn lại chúng con đã đi được cả dặm đường dài. Chánh Tâm đã đi một hành trình dài gần 20 năm, và trên hành trình ấy chúng con hạnh phúc khi có sự hiện diện của Thầy.
-                <br>Chúng con biết ơn lắm tình yêu thương, sự kiên nhẫn mà Thầy luôn dành cho chúng con. Nhờ có Thầy, chúng con biết học Phật không chỉ là học lời kinh tiếng kệ mà còn là học cách sống yêu thương, biết điều gì dễ thương, điều gì chưa dễ thương.
-                <br>Và tất thảy, Thầy đã trở thành thành ánh sáng dẫn đường chúng con đi. Đôi lúc chúng con còn vụng về, còn chậm bước, nhưng Thầy luôn ở đó, vững chãi mà lắng nghe chúng con. Để chúng con biết, mọi chênh vênh đều sẽ qua, chỉ cần không buông bỏ.
-                <br>Ngoài cuộc sống, chúng con mỗi người mỗi ngã rẽ khác nhau, nhưng cứ đến mỗi chiều chủ nhật, đến chùa là học trò của Ôn của Thầy, vô tư và bình dị. Để mỗi chủ nhật chúng con lại quay về chùa như quay về với bản thân trong lành nhất.
-                <br>Nhân ngày tiếp nối của Thầy, chúng con xin thành kính tri ân công dạy dỗ của Thầy và nguyện sẽ cố gắng gìn giữ, nuôi lớn những điều tốt đẹp mà Thầy đã trao truyền cho chúng con."
+                "Không bằng những lời nói lớn lao, mà bằng sự kiên nhẫn và tình thương bền bỉ, Thầy vẫn luôn có mặt ở đó, chứng kiến từng thế hệ Chánh Tâm tiếp nối và trưởng thành.
+                <br>Những bước chân của chúng con ngày một vững chãi, vì biết rằng trên con đường này, chúng con vẫn đang bước đi cùng Thầy."
             </p>
         </div>
         <button class="btn-orange" onclick="goToStep(5, 'Tiếp theo đây là món quà mà chúng con muốn gửi đến người Thầy đặc biệt của mình')">Tiếp tục</button>
@@ -361,14 +363,23 @@
     <section id="step-6" class="step">
         <div class="p-8 bg-white/50 rounded-2xl border-2 border-orange-200 max-w-lg shadow-inner">
             <h2 class="text-4xl font-script text-orange-800 mb-6">Lời tri ân</h2>
-            <p class="text-1xl text-orange-900 leading-relaxed italic">"Chúng con thật may mắn khi được gặp Thầy và được nương tựa nơi Chánh Tâm. Bằng lòng từ bi và sự kiên nhẫn, Thầy đã dịu dàng dìu dắt chúng con trên con đường học cách hiểu mình, hiểu người và sống an lành hơn. Có những lúc chúng con còn vụng về, còn chậm bước, nhưng Thầy vẫn luôn ở đó, nhẹ nhàng nhắc nhở và bao dung nâng đỡ. Không chỉ qua những lời dạy giản dị mà sâu sắc, mà chính cách Thầy sống, cách Thầy lắng nghe và quan tâm đến mọi người đã trở thành những bài học quý giá cho chúng con. Sự hiện diện của Thầy như một nguồn bình an, giúp chúng con học cách sống chậm lại, biết yêu thương nhiều hơn và trân quý những điều tốt đẹp trong cuộc sống. Chúng con luôn biết ơn vì có Thầy mà hành trình của chúng con trở nên bình an, ý nghĩa và ấm áp hơn rất nhiều 💛"</p>
+            <p class="text-1xl text-orange-900 leading-relaxed italic text-justify">
+                "Cứ mải miết với từng bước chân nhỏ, ngoảnh nhìn lại chúng con đã đi được cả dặm đường dài. Chánh Tâm đã đi một hành trình dài gần 20 năm, và trên hành trình ấy chúng con hạnh phúc khi có sự hiện diện của Thầy.
+                <br>Chúng con biết ơn lắm tình yêu thương, sự kiên nhẫn mà Thầy luôn dành cho chúng con. Nhờ có Thầy, chúng con biết học Phật không chỉ là học lời kinh tiếng kệ mà còn là học cách sống yêu thương, biết điều gì dễ thương, điều gì chưa dễ thương.
+                <br>Và tất thảy, Thầy đã trở thành thành ánh sáng dẫn đường chúng con đi. Đôi lúc chúng con còn vụng về, còn chậm bước, nhưng Thầy luôn ở đó, vững chãi mà lắng nghe chúng con. Để chúng con biết, mọi chênh vênh đều sẽ qua, chỉ cần không buông bỏ.
+                <br>Ngoài cuộc sống, chúng con mỗi người mỗi ngã rẽ khác nhau, nhưng cứ đến mỗi chiều chủ nhật, đến chùa là học trò của Ôn của Thầy, vô tư và bình dị. Để mỗi chủ nhật chúng con lại quay về chùa như quay về với bản thân trong lành nhất.
+                <br>Nhân ngày tiếp nối của Thầy, chúng con xin thành kính tri ân công dạy dỗ của Thầy và nguyện sẽ cố gắng gìn giữ, nuôi lớn những điều tốt đẹp mà Thầy đã trao truyền cho chúng con.🧡"
+            </p>
         </div>
         <button class="btn-orange" onclick="goToStep(7, 'Vẫn chưa hết đâu ạ, chúng con vẫn còn nhiều niềm thương mến nên chúng con được tiếp tục tỏ bày nhé!')">Tiếp tục</button>
     </section>
 
     <!-- STEP 7: Danh sách lời chúc -->
     <section id="step-7" class="step">
-        <h2 class="text-3xl font-heading text-orange-800 mb-6 uppercase tracking-widest">Lời chúc của những người học trò thân thương🌿 <br> &quot;Thầy trong con&quot;</h2>
+        <h2 class="text-3xl font-heading text-orange-800 mb-6 uppercase tracking-widest">
+            Lời chúc của những người học trò thân thương🌿
+            <br><p class="step-title">&quot;Thầy trong con&quot;</p>
+        </h2>
         <div class="scroll-container" id="wishes-container"></div>
         <button class="btn-orange mb-10" onclick="location.reload()">Quay lại từ đầu</button>
     </section>
@@ -408,7 +419,7 @@
         // Hiệu ứng icon bay
         function initIcons() {
             const container = document.getElementById('floating-icons-container');
-            const symbols = ['🌈', '🏵️', '✨', '🍃', '🧡', '☘️', '🍀'];
+            const symbols = ['✨', '🍃', '🧡', '☘️', '🍀'];
             setInterval(() => {
                 const el = document.createElement('div');
                 el.className = 'floating-icon';
@@ -493,7 +504,7 @@
                 card.className = 'wish-card text-left';
                 card.innerHTML = `
                     <p class="font-bold text-orange-800 border-b border-orange-100 mb-2">${w.name}</p>
-                    <p class="italic text-gray-700 text-sm md:text-base leading-relaxed">"${w.content}"</p>
+                    <p class="italic text-gray-700 text-sm md:text-base leading-relaxed text-justify">"${w.content}"</p>
                 `;
                 fragment.appendChild(card);
             });

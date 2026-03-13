@@ -129,6 +129,14 @@ const wishList = [
         <br>Với con thầy như là một chốn bình yên để trở về, gần gũi với anh chị em tụi con như những người thân ruột thịt trong gia đình, mong rằng thầy sẽ luôn thật nhiều sức khỏe để tiếp tục đồng hành và chỉ dạy chúng con trên con đường tu tập phía trước, để anh chị em tụi con còn được nối dài nối dài cánh tay này mãi.`,
     },
     {
+        name: `Nhật Anh`,
+        content: `Con chào Thầyyy, con là Nhật Anh đây ạ.
+        <br>Thật sự một năm qua, con luôn biết ơn việc mình đã tham gia khoá tu, để rồi có duyên được đồng hành cùng Chánh Tâm và được hỗ trợ, dẫn dắt bởi Thầy ạ. Đôi khi con cảm thấy thiệt mệt mỏi, cũng không tin rằng bản thân mình sẽ làm được, nhưng Thầy vẫn tin con, và đã cho con nhiều cơ hội để con có thể thử, và con biết mình vẫn giỏi hơn mình nghĩ rất nhiều, nên với con, Thầy là người đã dẫn con đến với nhiều điều mới ạ, con được đi khắp nơi, để trao tặng những tình yêu thương nhỏ bé của mình đến nơi cần nó, con được làm mọi điều để con có thể nhìn thấy mình và hiểu mình trong vô vàn sự mông lung mà con luôn nghĩ đến.
+        <br>Con mong rằng hành trình tới, Thầy vẫn yêu thương tụi con nhiềuuu, Thầy vẫn khoẻ mạnh để dẫn tụi con đi muôn phương, Thầy vẫn dạy tụi con từ những điều dễ thương nhất: “phải làm bằng một cái tâm chân chánh”.
+        <br>Con - Nhật Anh, rất biết ơn hành trình con đã cùng Chánh Tâm, cùng Thầy để rồi cảm xúc được hiện diện trọn vẹn trong giây phút hiện tại ạ 🍂
+`,
+    },
+    {
         name: `Đức Định`,
         content: `Nhân Ngày Tiếp Nối của Thầy, con xin được gửi đến Thầy lời tri ân chân thành. Thầy không chỉ là người hướng dẫn chúng con trong tu học mà còn là người luôn nhẹ nhàng nhắc nhở, giúp chúng con nhìn lại mình mỗi ngày. Những điều Thầy trao truyền tuy giản dị nhưng rất quý giá đối với chúng con.
         <br>Kính chúc Thầy luôn mạnh khỏe, an lạc để tiếp tục nâng đỡ và soi sáng cho chúng con trên con đường phía trước`,

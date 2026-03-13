@@ -78,12 +78,16 @@ const wishList = [
         <br>Con kính chúc Thầy luôn thân tâm an lạc, pháp thể khinh an, tuệ đăng thường chiếu, Phật đạo viên thành, và mãi là bóng cây mát lành để chúng con có thể an yên mỗi khi trở về ngôi nhà Chánh Tâm ạ. 🙏`,
     },
     {
-        name: `Nhật Uyên`,
-        content: ``,
-    },
-    {
         name: `Thanh Tùng`,
-        content: ``,
+        content: `Thương chào Thầy,
+        <br>Lại một mùa "tiếp nối" nữa lại về, con lại cùng anh chị em ngồi lại bên nhau bàn bạc chương trình tổ chức.
+        <br>Khi đó chúng con tự hỏi: "Thầy trong con là gì?", con nhận ra thật khó để dùng một danh từ nào đó để định nghĩa. Bởi lẽ, Thầy hiện hữu trong con qua từng hơi thở, từng bước chân và cả những chuyển hóa trong con.
+        <br>Nhìn lại chặng đường từ năm 2017 đến tận 2023, lúc đó con lạc lõng và tìm con đường đúng cho chính mình.
+        <br>Năm 2017, Thầy nhìn thấy con nhưng có lẽ con đã chưa nhận ra Thầy. Và rồi khi mọi nhân duyên tới, con đã tìm được đường trở về và có mặt ở Phước Duyên vào năm 2023.
+        <br>Mọi người có thể thấy vị trí lớp trưởng của con đến thật nhẹ nhàng nhưng chỉ có con mới hiểu những áp lực và thử thách ẩn sau đó.
+        <br>Thế nhưng, thay vì mệt mỏi, con lại tìm thấy nguồn động lực lớn lao từ Thầy.
+        <br>Chính tình thương vô điều kiện mà Thầy dành cho anh chị em Chánh Tâm là động lực và từ đó con vững chãi hơn để bước tiếp hành trình của mình ở ngôi nhà tâm linh Chánh Tâm!
+        <br>Biết ơn Thầy của con rất nhiều!`,
     },
     {
         name: `Huy Lê`,

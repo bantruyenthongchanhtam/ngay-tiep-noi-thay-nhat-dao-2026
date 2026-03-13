@@ -12,6 +12,18 @@ const wishList = [
         <br>Kính chúc Thầy luôn an lành, vững chãi và nhẹ nhàng trên con đường tu học.`,
     },
     {
+        name: `Lành - Bảo`,
+        content: `Nam mô A Di Đà Phật!
+        <br>Thương gửi Thầy của chúng con!
+        <br>Nhân ngày tiếp nối của Thầy, đại gia đình chúng con xin được gửi lời chúc an lạc đến Thầy. Chúc Thầy có một ngày tiếp nối nhiều niềm vui và an lành.
+        <br>Thầy trong chúng con luôn hiện hữu đặc biệt và ấm áp như rứa, chúng con luôn biết ơn cuộc đời vì nhân duyên tốt lành được gặp Thầy, được Thầy hướng dẫn và nâng đỡ cho gia đình huyết thống và gia đình tâm linh của chúng con kết nối bền chặt và tin sâu vào Tam Bảo.
+        <br>Vợ chồng chúng con may mắn được nương vào năng lượng yêu thương của Tam Bảo, quý Ôn và quý Thầy hướng dẫn. Đặc biệt là hành trình chúng con nên duyên vợ chồng cũng được sự chứng minh, trợ duyên của Thầy. Thầy luôn ở đó, trao truyền cho chúng con những bài học, kinh nghiệm sống, Chúng con trân quý rất nhiều. Thầy cũng là người đầu tiên tạo duyên và nâng đỡ gia đình huyết thống của chúng con biết đến Phật Pháp. Cả đại gia đình chúng con luôn tri ân Thầy. Chúng con biết, những điều chúng con ghi ngôn từ hạn hẹp, chúng con chỉ biết rằng, về chùa có Thầy chúng con hạnh phúc vì Thầy luôn vững chãi ở đó, đầy tình thương.
+        <br>Chúng con mong Thầy luôn được an vui, là suối nguồn mát lành cho anh chị em Chánh Tâm mỗi khi trở về.
+        <br>A Di Đà Phật!
+        <br>Học trò của Thầy
+        <br>Nhuận Hải Tâm & Tâm Phước Châu🌱`,
+    },
+    {
         name: `Bơ Cena`,
         content: `Thời gian qua lặng thầm như suối chảy
         <br>Thầy Nhật Đạo tận tâm vì Chánh Tâm
@@ -106,7 +118,7 @@ const wishList = [
     {
         name: `Yến Ngọc`,
         content: `Nam Mô Bổn Sư Thích Ca Mâu Ni Phật. 
-        <br>ính bạch Thầy, Con là Yến Ngọc - Một đứa trẻ tập tễnh bước, tập tễnh đi, tập tễnh nhìn và tập tễnh thấu trên con đường tìm hiểu và tu học Phật Pháp. Có lẽ, đứa trẻ ấy sẽ không thể nào lớn được nếu thiếu được sự hướng dẫn của một người cha tận tâm, tận lực. Và với con, người cha ấy chính là Thầy.
+        <br>Kính bạch Thầy, Con là Yến Ngọc - Một đứa trẻ tập tễnh bước, tập tễnh đi, tập tễnh nhìn và tập tễnh thấu trên con đường tìm hiểu và tu học Phật Pháp. Có lẽ, đứa trẻ ấy sẽ không thể nào lớn được nếu thiếu được sự hướng dẫn của một người cha tận tâm, tận lực. Và với con, người cha ấy chính là Thầy.
         <br>Trong con, và có lẽ là với cả Chánh Tâm, Thầy như ngọn đèn đăng được thắp lên mỗi dịp phóng sanh, ngọn đăng đó luôn rọi sáng, dẫn dắt, rẽ lỗi cho chúng con tìm được đúng đường, giữ được đúng tâm, gieo được hạt giống lành. Con vẫn luôn ghi nhớ những lời căn dặn, dặn dò của Thầy, từ sự hít thở sâu, tu tập trong chánh niệm, đến sự trao yêu thương trong những chuyện thiện nguyện gần xa. Những bài học ấy, giúp con thêm tin, thêm yêu cuộc sống, giúp con biết trân trọng những điều tưởng chừng bé nhỏ, giúp con an lạc trong cuộc sống có đôi phần bộn bề này.
         <br>13/3 ngày tiếp nối của Thầy, con mong rằng thầy sẽ luôn an lành và vững tâm trên con đường tu học. Mong rằng, người Thầy của chúng con, ngọn đèn đăng rọi đường của Chánh Tâm sẽ luôn cháy mãi và sáng mãi, dẫn lối chúng con bước đi trong Chánh Pháp.`,
     },
@@ -129,6 +141,13 @@ const wishList = [
         <br>Thật ra thì năm mô đến ngày này thì con cũng được thông báo và biết đến, nhưng năm nay lại có chút đặc biệt hơn. Con cảm nhận được tình thầy trò sâu hơn, gắn bó hơn, và con thật sự thấy vui vì điều ni. Khác với mọi năm con chỉ biết khi được thông báo, thì chắc là từ chừ con sẽ ghi nhớ ngày ni, ngày 13 tháng 3 là ngày tiếp nối của Thầy Nhật Đạo.
         <br>Con thật sự biết ơn những nhân duyên đã đưa con đến với chùa mình, và trên hết là con thật sự biết ơn Thầy. Thầy đã dìu dắt Chánh Tâm đi từ những ngày đầu tiên, một hành trình rất dài mà con đã được nghe qua những lời kể của Thầy. Con là người đi sau, khi Chánh Tâm đã ổn định, nên con có thể không hiểu hết được những khó khăn của Thầy trong thời gian trước. Giờ Chánh Tâm đã ngày càng vững mạnh hơn, con xin tri ân Thầy sâu sắc.
         <br>Và con viết những dòng ni không chỉ vì Thầy là người đã dẫn dắt Chánh Tâm, mà vì Thầy là Thầy của con, là người mà con hết sức kính trọng và quý mến. Được Thầy chỉ dạy chính là phước duyên lớn của con. Con thật sự biết ơn Thầy. Con kính mừng ngày tiếp nối của Thầy, con chúc Thầy luôn mạnh khỏe, luôn tràn đầy năng lượng để có thể gieo thêm nhiều hạt giống bình an cho đời.`,
+    },
+    {
+        name: `Thùy Trâm`,
+        content: `Nam Mô Bổn Sư Thích Ca Mâu Ni Phật
+        <br>Dạ con là Thuỳ Trâm, là thành viên của Tâm An ạ. Con cảm ơn Thầy vì đã dìu dắt, nâng đỡ con để con có thể vững vàng bước tiếp trên con đường tu học. Thầy đã dẫn dắt Chánh Tâm chúng con, từng bước một, ngày càng trở nên vững mạnh hơn, được nhiều bạn đồng tu biết đến hơn. Đã hai năm kể từ khi con tham gia Chánh Tâm, vậy mà con đã có thể cảm nhận được rằng tình cảm mà Thầy dành cho chúng con rất lớn lao, chính vì vậy mà con cũng như các anh chị em Chánh Tâm đều muốn lên chùa, nghe các Thầy giảng pháp thoại, trò chuyện, tâm sự cùng Thầy, điều đó làm cho tâm của chúng con an nhàn hơn, nhẹ nhàng hơn đôi chút. Dù lịch học và dạy của con khá bận rộn nên chưa thể sắp xếp được thời gian học pháp hàng tuần, nhưng không vì thế mà tinh thần tu học của con giảm đi. Con biết ơn Thầy vì đã tạo ra một Chánh Tâm hoà đồng, nhiệt huyết, tràn đầy tình yêu thương, biết ơn các anh chị em Chánh Tâm vì đã luôn nhiệt tình, vui vẻ, cởi mở với mọi người để em có thể hoà nhập được với Chánh Tâm một cách nhanh chóng.
+        <br>Nhân ngày tiếp nối của Thầy, con chúc Thầy luôn tràn đầy sức khoẻ và vui vẻ, an lạc, sống trong hào quang của mười phương chư phật.
+        <br>Nam Mô Bổn Sư Thích Ca Mâu Ni Phật.`,
     },
     {
         name: `Boom`,

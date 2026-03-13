@@ -1,8 +1,8 @@
 // MẢNG ĐỐI TƯỢNG ẢNH (note và image)
 const photoList = [
     { image: `./assets/images/00.jpg`, note: `Thầy và Ôn` },
-    { image: `./assets/images/01.jpg`, note: `Thầy lúc còn là điệu` },
-    { image: `./assets/images/02.jpg`, note: `Thầy lúc còn là điệu` },
+    { image: `./assets/images/01.jpg`, note: `Thầy lúc còn làm Điệu` },
+    { image: `./assets/images/02.jpg`, note: `Thầy lúc còn làm Điệu` },
     { image: `./assets/images/03.jpg`, note: `Thầy và gia đình huyết thống` },
     { image: `./assets/images/04.jpg`, note: `Thầy và gia đình huyết thống` },
     { image: `./assets/images/05.jpg`, note: `Thầy và gia đình huyết thống` },

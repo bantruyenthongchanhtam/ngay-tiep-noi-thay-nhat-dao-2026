@@ -133,8 +133,7 @@ const wishList = [
         content: `Con chào Thầyyy, con là Nhật Anh đây ạ.
         <br>Thật sự một năm qua, con luôn biết ơn việc mình đã tham gia khoá tu, để rồi có duyên được đồng hành cùng Chánh Tâm và được hỗ trợ, dẫn dắt bởi Thầy ạ. Đôi khi con cảm thấy thiệt mệt mỏi, cũng không tin rằng bản thân mình sẽ làm được, nhưng Thầy vẫn tin con, và đã cho con nhiều cơ hội để con có thể thử, và con biết mình vẫn giỏi hơn mình nghĩ rất nhiều, nên với con, Thầy là người đã dẫn con đến với nhiều điều mới ạ, con được đi khắp nơi, để trao tặng những tình yêu thương nhỏ bé của mình đến nơi cần nó, con được làm mọi điều để con có thể nhìn thấy mình và hiểu mình trong vô vàn sự mông lung mà con luôn nghĩ đến.
         <br>Con mong rằng hành trình tới, Thầy vẫn yêu thương tụi con nhiềuuu, Thầy vẫn khoẻ mạnh để dẫn tụi con đi muôn phương, Thầy vẫn dạy tụi con từ những điều dễ thương nhất: “phải làm bằng một cái tâm chân chánh”.
-        <br>Con - Nhật Anh, rất biết ơn hành trình con đã cùng Chánh Tâm, cùng Thầy để rồi cảm xúc được hiện diện trọn vẹn trong giây phút hiện tại ạ 🍂
-`,
+        <br>Con - Nhật Anh, rất biết ơn hành trình con đã cùng Chánh Tâm, cùng Thầy để rồi cảm xúc được hiện diện trọn vẹn trong giây phút hiện tại ạ 🍂`,
     },
     {
         name: `Đức Định`,
